@@ -2,4 +2,4 @@
 
 ## Pizza Menu
 
-I practise this projects components, props and jsx
+I practise this project with components, props and jsx
